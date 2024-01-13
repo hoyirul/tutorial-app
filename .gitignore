@@ -1,7 +1,7 @@
 # Untuk mengabaikan file yang tidak perlu di upload ke github
 
 # seperti file yang berisi password, file yang berisi key, file yang berisi token, file yang berisi data sensitif lainnya
-node_modules/*
+node_modules/
 
 # kecualikan file .env
 .env
